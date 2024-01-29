@@ -4,6 +4,16 @@
 
 # TaskingAI
 
+[![PyPI version](https://img.shields.io/pypi/v/taskingai?color=blue)](https://pypi.org/project/taskingai)
+[![Docs](https://img.shields.io/badge/docs-latest-brightgreen)](https://docs.tasking.ai/docs/guide/getting_started/overview/)
+[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/taskingai/taskingai-server?label=docker)](https://hub.docker.com/u/taskingai)
+[![GitHub License](https://img.shields.io/github/license/taskingai/taskingai)](https://github.com/TaskingAI/TaskingAI/blob/master/LICENSE)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FTaskingAI)](https://twitter.com/TaskingAI)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxUnOM-ZbZKmyR_Q5vAUSTA)](https://www.youtube.com/channel/UCxUnOM-ZbZKmyR_Q5vAUSTA)
+
+
+
+
 [TaskingAI](https://www.tasking.ai) brings Firebase's simplicity to **AI-native app development**. The platform enables the creation of GPTs-like multi-tenant applications using a wide range of LLMs from various providers. It features distinct, modular functions such as Inference, Retrieval, Assistant, and Tool, seamlessly integrated to enhance the development process. TaskingAI’s cohesive design ensures an efficient, intelligent, and user-friendly experience in AI application development.
 
 **Key Features**:
